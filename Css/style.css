@@ -1,0 +1,38 @@
+#Skill{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+   
+  }
+  li> a>.nav-link{
+    border-bottom: 100px;
+  }
+  .card-img-top{
+    height: 180px;
+  }
+  .card-body{
+    height: 250px;
+  }
+  #me{
+    height: 120px;
+    width: 120px;
+    padding:0px;
+    margin:0px;
+  }
+  #menu-img{
+    height: 40px;
+    width: 40px;
+    padding:2px;
+    margin: auto;
+  }
+  #bts{
+    height: 80px;
+    width: 80px;
+    padding:5px;
+    margin:5px;
+  }
+ 
+
+    
+
